@@ -3,8 +3,7 @@ This is the official implementation of __ARCHER__ (Adaptive RWR Computation on H
 * __Random Walk with Restart on Hypergraphs: Fast Algorithms and Its Application to Anomaly Detection__
 <br> Jaewan Chun, Geon Lee, Kijung Shin and Jinhong Jung
 ## __Overview__
-Random walk with restart (RWR) is a widely-used measure of node similarity in graphs, and it has proved useful for ranking, commu-
-nity detection, link prediction, anomaly detection, etc. 
+Random walk with restart (RWR) is a widely-used measure of node similarity in graphs, and it has proved useful for ranking, community detection, link prediction, anomaly detection, etc. 
 Since RWR is typically required to be computed separately for a larger number of seed nodes or even for all nodes, fast computation of it is indispensable. 
 However, for hypergraphs, the fast computation of RWR has been unexplored, despite its great potential. 
 <br>
