@@ -1,5 +1,5 @@
 # __ARCHER__
-This is the official implementation of __ARCHER__ (Adaptive RWR Computation on Hypergraphs), which is described in the following papaer:
+This is the official implementation of __ARCHER__ (Adaptive RWR Computation on Hypergraphs), which is described in the following paper:
 * __Random Walk with Restart on Hypergraphs: Fast Algorithms and Its Application to Anomaly Detection__
 <br> Jaewan Chun, Geon Lee, Kijung Shin and Jinhong Jung
 <br> Data Mining and Knowledge Discovery 38.3 (2024), part of ECML PKDD'24 Journal Track
